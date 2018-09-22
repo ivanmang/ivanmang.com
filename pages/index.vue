@@ -2,8 +2,10 @@
   <section class="section is-medium">
     <div class="container has-text-centered">
       <img src="logo.png"/>
+      <div>
       <h1 class="title">Hi, I'm Ivan Mang</h1>
-      <h2 class="subtitle">a 3rd Year Computing Student</h2>
+      <h2 class="subtitle">A 3rd Year Computing Student</h2>
+      </div>
     </div>
   </section>
 </template>

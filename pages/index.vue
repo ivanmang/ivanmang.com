@@ -1,8 +1,8 @@
 <template>
-  <section class="section is-medium">
+  <section class="section is-small">
     <div class="container has-text-centered">
-      <img src="logo.png"/>
-      <div>
+      <img src="profile.jpg"/>
+      <div class="intro">
       <h1 class="title">Hi, I'm Ivan Mang</h1>
       <h2 class="subtitle">A 3rd Year Computing Student</h2>
       </div>
@@ -12,12 +12,12 @@
 
 <style scoped>
   img {
-    display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 300px;
+    border-radius: 250px;
+    width: 250px;
+  }
+  h1.title {
+    line-height: 300%;
   }
 </style>

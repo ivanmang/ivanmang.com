@@ -36,6 +36,9 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  plugins: [
+      { src: '~/plugins/font-awesome' }
+  ]
 };
 

@@ -3,7 +3,7 @@
     <navbar></navbar>
     <nuxt/>
     <div class="footer">
-      Copyright@Ivan Mang 2018
+      Copyright@ Ivan Mang 2018
     </div>
   </div>
 </template>

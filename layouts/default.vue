@@ -2,9 +2,13 @@
   <div>
     <navbar></navbar>
     <nuxt/>
-    <div class="footer">
-      Copyright © Ivan Mang 2018
-    </div>
+    <footer class="footer">
+      <div class="content has-text-centered">
+        <p>
+          Copyright © Ivan Mang 2018
+        </p>
+      </div>
+    </footer>
   </div>
 </template>
 

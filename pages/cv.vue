@@ -24,7 +24,7 @@
           <img class="icon" src="cardiff.jpg"/>
         </a>
         </h2>
-        <h4>GCE A-level, Maths, Further Math, Physics and Chemistry</h4>
+        <h4>GCE A-level, Maths, Further Maths, Physics and Chemistry</h4>
         <h6>2014-2016</h6>
         <hr>
         <h2 class="subtitle">St. Paul's College, Hong Kong
@@ -86,7 +86,6 @@
         <h6>2013-2014</h6>
       </section>
     </div>
-
   </section>
 </template>
 

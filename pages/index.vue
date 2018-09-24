@@ -11,7 +11,7 @@
         <section class="section is-small">
           <div class="column">
             <a style="margin-right:20px;" href="https://www.linkedin.com/in/ivan-mang-632a4a134/" target="_blank">
-              <font-awesome-icon :icon="['fab', 'linkedin']" size="2x"/>
+              <font-awesome-icon :icon="['fab', 'linkedin']" size="2x" />
             </a>
           </div>
           <div class="column">

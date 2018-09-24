@@ -8,6 +8,7 @@
           as enthusiasm for science and technology. I am eager to be challenged in order to grow and improve my
           communication and practical knowledge in software engineering, and become an software engineer in the near future.</p>
       </div>
+      <hr>
 
 
     </div>

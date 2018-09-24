@@ -14,7 +14,7 @@
         <h1 class="subtitle">Innovative👨‍🎨</h1>
           <p>He can always "think outside the box"💡 and suggesting innovative ideas to the team.</p>
           <p>He initiated many science projects👨‍🔬 which joined many competitions and exhibitions since primary school.</p>
-          <p>He loves joining Hackathon👨‍💻 and received many awards.</p>
+          <p>He loves joining Hackathons👨‍💻 and received many awards.</p>
         <hr>
         <h1 class="subtitle">Collaborative👯</h1>
           <p>He can work well in a team and independently.</p>

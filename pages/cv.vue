@@ -60,12 +60,12 @@
         <h4>Champion of Smart Environment Challenge</h4>
         <h6>September 2018</h6>
         <hr>
-        <h2 class="subtitle">Global PropTech Ecosystem Mentorship Award</h2>
-        <h4>Asia PropTech Innovathon (Hong Kong round)</h4>
+        <h2 class="subtitle">Asia PropTech Innovathon (Hong Kong round)</h2>
+        <h4>Global PropTech Ecosystem Mentorship Award</h4>
         <h6>August 2018</h6>
         <hr>
-        <h2 class="subtitle">DoCSoc (Department of Computing Society) Choice Award</h2>
-        <h4>ICHACK 18</h4>
+        <h2 class="subtitle">ICHACK 18</h2>
+        <h4>DoCSoc (Department of Computing Society) Choice Award</h4>
         <h6>January 2018</h6>
       </section>
     </div>

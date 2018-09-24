@@ -4,7 +4,7 @@
       <h1 class="title">About Me</h1>
       <div class="intro">
         <p>So who is Ivan? 😂</p>
-        <p>Ivan is a <b>innovative👨‍🎨</b> , <b>collaborative👯</b> ,<b>hardworking👨‍💻</b> and <b>multi-talented🤹</b> person</p>
+        <p>Ivan is a <b>innovative</b> , <b>collaborative</b> ,<b>hardworking</b> and <b>multi-talented</b> person</p>
         <p>(Those are comments extracted from his Linkedin🙄)</p>
       </div>
 

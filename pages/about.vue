@@ -6,6 +6,7 @@
         <p>So who is Ivan? 😂</p>
         <p>Ivan is a <b>innovative</b> , <b>collaborative</b> ,<b>hardworking</b> and <b>multi-talented</b> person</p>
         <p>(Those are comments extracted from his Linkedin🙄)</p>
+        <p>btw this website is built with Nuxt.js which is a framework made with Vue.js</p>
       </div>
 
       <section class="section is-small">

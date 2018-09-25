@@ -2,7 +2,6 @@
 
   <section class="section is-small">
       <div class="intro">
-        <a name="about"></a>
         <img class="profile" src="cv.jpg">
         <h1 class="title">Ivan Mang</h1>
         <p>I am a Year 3 Computing student who has developed a good level of problem solving problem solving skills as well
@@ -17,10 +16,10 @@
             About me
           </p>
           <ul class="menu-list">
-            <li><a href="#about">About</a></li>
+            <li><a href="#">About</a></li>
           </ul>
           <p class="menu-label">
-            Education
+            Education 🏫
           </p>
           <ul class="menu-list">
             <li><a href="#imperial">Imperial College London</a></li>
@@ -28,12 +27,22 @@
             <li><a href="#spc">St. Paul's College</a></li>
           </ul>
           <p class="menu-label">
-            Work Experience
-          </p>
+          Work Experience 🏢
+        </p>
           <ul class="menu-list">
             <li><a href="#pwc">PwC, HK</a></li>
             <li><a href="#hopeson">Hopeson Investment Limited</a></li>
             <li><a href="#ricoh">RICOH, UK</a></li>
+          </ul>
+          <p class="menu-label">
+            Awards and projects🏆
+          </p>
+          <ul class="menu-list">
+            <li><a href="#epic">EPiC 2018</a></li>
+            <li><a href="#epic">Smart City Hackathon HK 2018</a></li>
+            <li><a href="#ichack">Asia PropTech Innovathon</a></li>
+            <li><a href="#ichack">ICHACK 18</a></li>
+            <li><a href="#">Other</a></li>
           </ul>
         </aside>
       </div>
@@ -69,7 +78,7 @@
                   <img class="icon" src="cardiff.jpg"/>
                 </a>
               </h2>
-              <h4>GCE A-level, Maths, Further Maths, Physics and Chemistry</h4>
+              <h4>GCE A-level, Maths, Further Maths, Physics, Chemistry and Chinese</h4>
               <h6>2014-2016</h6>
             </div>
             <div class="column">
@@ -104,25 +113,89 @@
               </section>
             </div>
           </div>
-
         </section>
+
         <hr>
         <h1 class="title"> Work Experience 🏢</h1>
         <section class="section is-small">
-          <a name="pwc"></a>
-          <h2 class="subtitle">PwC HK</h2>
-          <h4>Trainee Assistant (Audit Methodology and Technology)</h4>
-          <h6>August 2018</h6>
+          <div class="columns">
+            <div class="column">
+              <a name="pwc"></a>
+              <h2 class="subtitle">PwC HK</h2>
+              <h4>Trainee Assistant (Audit Methodology and Technology)</h4>
+              <h6>August 2018</h6>
+            </div>
+            <div class="column">
+              <section class="section is-small">
+                <i>Responsibility:</i>
+                <li>hi</li>
+              </section>
+            </div>
+          </div>
           <hr>
-          <a name="hopeson"></a>
-          <h2 class="subtitle">Hopeson Investment Limited</h2>
-          <h4>Software Engineer Internship</h4>
-          <h6>July 2018</h6>
+          <div class="columns">
+            <div class="column">
+              <a name="hopeson"></a>
+              <h2 class="subtitle">Hopeson Investment Limited</h2>
+              <h4>Software Engineering Internship</h4>
+              <h6>July 2018</h6>
+            </div>
+            <div class="column">
+              <section class="section is-small">
+                <i>Responsibility:</i>
+                <li>hi</li>
+              </section>
+            </div>
+          </div>
           <hr>
-          <a name="ricoh"></a>
-          <h2 class="subtitle">RICOH, UK</h2>
-          <h4>Trainee</h4>
-          <h6>April 2015</h6>
+          <div class="columns">
+            <div class="column">
+              <a name="ricoh"></a>
+              <h2 class="subtitle">RICOH, UK</h2>
+              <h4>Trainee</h4>
+              <h6>April 2015</h6>
+            </div>
+            <div class="column">
+              <section class="section is-small">
+                <i>Responsibility:</i>
+                <li>hi</li>
+              </section>
+            </div>
+          </div>
+
+        </section>
+
+        <hr>
+        <h1 class="title">Awards and projects🏆</h1>
+        <section class="section is-small">
+          <div class="columns">
+            <a name="epic"></a>
+            <div class="column">
+              <h2 class="subtitle"><a href="https://events.hkstp.org/events/2018/EPiC/">Elevator Pitch Competition 2018, (EPiC)</a></h2>
+              <h4>Finalist</h4>
+              <h6>October 2018</h6>
+            </div>
+            <div class="column">
+              <h2 class="subtitle"><a href="https://odhack-hk-2018.devpost.com/">Smart City Hackathon Hong Kong 2018</a></h2>
+              <h4>Champion of Smart Environment Challenge</h4>
+              <h6>September 2018</h6>
+            </div>
+          </div>
+            <div class="columns">
+              <a name="ichack"></a>
+              <div class="column">
+                <h2 class="subtitle"><a href="http://www.innovathon-asiaprop.tech/">Asia PropTech Innovathon (Hong Kong round)</a></h2>
+                <h4>Global PropTech Ecosystem Mentorship Award</h4>
+                <h6>August 2018</h6>
+              </div>
+              <div class="column">
+                <h2 class="subtitle"><a href="https://ichack.org/">ICHACK 18</a></h2>
+                <h4>DoCSoc(Organiser) Choice Award</h4>
+                  <h6>January 2018</h6>
+              </div>
+            </div>
+
+
         </section>
       </div>
     </div>
@@ -151,10 +224,8 @@
   h1.title {
     line-height: 150%;
   }
-  div.content {
-    margin-left: auto;
-    margin-right: auto;
-    width: 60em;
+  menu {
+    position: fixed;
   }
 </style>
 

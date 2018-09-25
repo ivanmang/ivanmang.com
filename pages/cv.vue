@@ -1,13 +1,15 @@
 <template>
 
   <section class="section is-small">
-      <div class="intro">
-        <img class="profile" src="cv.jpg">
-        <h1 class="title">Ivan Mang</h1>
-        <p>I am a Year 3 Computing student who has developed a good level of problem solving problem solving skills as well
-          as enthusiasm for science and technology. I am eager to be challenged in order to grow and improve my
-          communication and practical knowledge in software engineering, and become a software engineer in the near future.</p>
-      </div>
+    <div class="intro">
+      <img class="profile" src="cv.jpg">
+      <h1 class="title">Ivan Mang</h1>
+      <p>I am a Year 3 Computing student who has developed a good level of problem solving problem solving skills as
+        well
+        as enthusiasm for science and technology. I am eager to be challenged in order to grow and improve my
+        communication and practical knowledge in software engineering, and become a software engineer in the near
+        future.</p>
+    </div>
     <hr>
     <div class="columns">
       <div class="column is-one-quarter">
@@ -27,8 +29,8 @@
             <li><a href="#spc">St. Paul's College</a></li>
           </ul>
           <p class="menu-label">
-          Work Experience 🏢
-        </p>
+            Work Experience 🏢
+          </p>
           <ul class="menu-list">
             <li><a href="#pwc">PwC, HK</a></li>
             <li><a href="#hopeson">Hopeson Investment Limited</a></li>
@@ -42,7 +44,14 @@
             <li><a href="#epic">Smart City Hackathon HK 2018</a></li>
             <li><a href="#ichack">Asia PropTech Innovathon</a></li>
             <li><a href="#ichack">ICHACK 18</a></li>
-            <li><a href="#">Other</a></li>
+            <li><a href="#">More</a></li>
+          </ul>
+          <p class="menu-label">
+            Others
+          </p>
+          <ul class="menu-list">
+            <li><a href="#skills">Skills😎</a></li>
+            <li><a href="#cert">Certifications🌟</a></li>
           </ul>
         </aside>
       </div>
@@ -58,18 +67,21 @@
                   <img class="icon" src="imperial.png"/>
                 </a>
               </h2>
-              <h4>Master of Engineering - MEng, <a href="https://www.imperial.ac.uk/study/ug/courses/computing-department/meng-computing-software-engineering-/">Computing (Software Engineering)</a> </h4>
+              <h4>Master of Engineering - MEng, <a
+                href="https://www.imperial.ac.uk/study/ug/courses/computing-department/meng-computing-software-engineering-/">Computing
+                (Software Engineering)</a></h4>
               <h6>2016-2020</h6>
             </div>
             <div class="column">
               <section class="section is-small">
                 <i>Activities:</i>
                 <li>Treasurer of <a href="https://www.imperialcollegeunion.org/activities/a-to-z/pass">ICPASS</a></li>
-                <li>Treasurer of <a href="https://www.imperialcollegeunion.org/search/union/interact">Imperial College Interact</a></li>
+                <li>Treasurer of <a href="https://www.imperialcollegeunion.org/search/union/interact">Imperial College
+                  Interact</a></li>
               </section>
             </div>
           </div>
-        <hr>
+          <hr>
           <div class="columns">
             <div class="column">
               <a name="csfc"></a>
@@ -128,7 +140,9 @@
             <div class="column">
               <section class="section is-small">
                 <i>Responsibility:</i>
-                <li>hi</li>
+                <li>Improve the e-learning system for the new auditors</li>
+                <li>Present potential applications that can be developed</li>
+                <li>Development and testing of a document generating software</li>
               </section>
             </div>
           </div>
@@ -143,7 +157,9 @@
             <div class="column">
               <section class="section is-small">
                 <i>Responsibility:</i>
-                <li>hi</li>
+                <li>Working with a team to develop different Machine learning models and analysis the data in the
+                  market
+                </li>
               </section>
             </div>
           </div>
@@ -158,7 +174,7 @@
             <div class="column">
               <section class="section is-small">
                 <i>Responsibility:</i>
-                <li>hi</li>
+                <li>Assisting a service engineer with analyzing error messages and updating firmware</li>
               </section>
             </div>
           </div>
@@ -167,36 +183,94 @@
 
         <hr>
         <h1 class="title">Awards and projects🏆</h1>
-        <section class="section is-small">
+
+        <div class="box">
           <div class="columns">
             <a name="epic"></a>
             <div class="column">
-              <h2 class="subtitle"><a href="https://events.hkstp.org/events/2018/EPiC/">Elevator Pitch Competition 2018, (EPiC)</a></h2>
+              <h2 class="subtitle"><a href="https://events.hkstp.org/events/2018/EPiC/">Elevator Pitch Competition 2018,
+                (EPiC)</a></h2>
               <h4>Finalist</h4>
               <h6>October 2018</h6>
             </div>
             <div class="column">
-              <h2 class="subtitle"><a href="https://odhack-hk-2018.devpost.com/">Smart City Hackathon Hong Kong 2018</a></h2>
+              <h2 class="subtitle"><a href="https://odhack-hk-2018.devpost.com/">Smart City Hackathon Hong Kong 2018</a>
+              </h2>
               <h4>Champion of Smart Environment Challenge</h4>
               <h6>September 2018</h6>
             </div>
           </div>
-            <div class="columns">
-              <a name="ichack"></a>
-              <div class="column">
-                <h2 class="subtitle"><a href="http://www.innovathon-asiaprop.tech/">Asia PropTech Innovathon (Hong Kong round)</a></h2>
-                <h4>Global PropTech Ecosystem Mentorship Award</h4>
-                <h6>August 2018</h6>
-              </div>
-              <div class="column">
-                <h2 class="subtitle"><a href="https://ichack.org/">ICHACK 18</a></h2>
-                <h4>DoCSoc(Organiser) Choice Award</h4>
-                  <h6>January 2018</h6>
-              </div>
+          <div class="columns">
+            <a name="ichack"></a>
+            <div class="column">
+              <h2 class="subtitle"><a href="http://www.innovathon-asiaprop.tech/">Asia PropTech Innovathon (Hong Kong
+                round)</a></h2>
+              <h4>Global PropTech Ecosystem Mentorship Award</h4>
+              <h6>August 2018</h6>
             </div>
+            <div class="column">
+              <h2 class="subtitle"><a href="https://ichack.org/">ICHACK 18</a></h2>
+              <h4>DoCSoc(Organiser) Choice Award</h4>
+              <h6>January 2018</h6>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <a name="skills"></a>
+        <h1 class="title">Skills 😎</h1>
+        <div class="box">
+          <div class="columns">
+            <div class="column">
+              <b>Technical:</b>
+              <li>Java</li>
+              <li>C</li>
+              <li>C++</li>
+              <li>JavaScript</li>
+              <li>Python</li>
+              <li>Haskell</li>
+            </div>
+            <div class="column">
+              <li>WebApp Develop</li>
+              <li>Agile methodology</li>
+              <li>Database</li>
+              <li>Data Science</li>
+              <li>Prolog</li>
+            </div>
+            <div class="column">
+              <b>Interpersonal:</b>
+              <li>Teamwork</li>
+              <li>Leadership</li>
+              <li>Project Management</li>
+              <li>Pitching</li>
+            </div>
+            <div class="column">
+              <b>Other:</b>
+              <li>Publication and design</li>
+              <li>First Aid</li>
+              <li>Singing</li>
+              <li>Guitar</li>
+              <li>Piano</li>
+              <li>A-capella</li>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <a name="cert"></a>
+        <h1 class="title">Certifications🌟</h1>
+        <div class="box">
+          <div class="columns">
+            <div class="column">
+              <h2 class="subtitle">Trading Education Certificate</h2>
+              <h4>Imperial College Finance Society</h4>
+            </div>
+            <div class="column">
+              <h2 class="subtitle">First Aid and CPR Certificate</h2>
+              <h4>Hong Kong St. John Ambulance</h4>
+            </div>
+          </div>
 
 
-        </section>
+        </div>
       </div>
     </div>
   </section>
@@ -209,21 +283,25 @@
     border-radius: 150px;
     width: 150px;
   }
+
   img.icon {
     margin-left: auto;
     margin-right: auto;
     width: 40px;
     height: 40px;
   }
+
   div.intro {
     margin-left: auto;
     margin-right: auto;
     width: 31em;
     text-align: center;
   }
+
   h1.title {
     line-height: 150%;
   }
+
   menu {
     position: fixed;
   }

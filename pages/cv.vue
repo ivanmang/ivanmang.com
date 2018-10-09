@@ -21,7 +21,7 @@
             <li><a href="#">About</a></li>
           </ul>
           <p class="menu-label">
-            Education 🏫
+            Education 🎓
           </p>
           <ul class="menu-list">
             <li><a href="#imperial">Imperial College London</a></li>
@@ -37,14 +37,24 @@
             <li><a href="#ricoh">RICOH, UK</a></li>
           </ul>
           <p class="menu-label">
-            Awards and projects🏆
+            Awards in Hackathons🏆
           </p>
           <ul class="menu-list">
             <li><a href="#epic">EPiC 2018</a></li>
             <li><a href="#epic">Smart City Hackathon HK 2018</a></li>
             <li><a href="#ichack">Asia PropTech Innovathon</a></li>
             <li><a href="#ichack">ICHACK 18</a></li>
-            <li><a href="#">More</a></li>
+          </ul>
+          <p class="menu-label">
+            Projects👨🏻‍💻
+          </p>
+          <ul class="menu-list">
+            <li><a href="#ghost">Ghost Chess (with Theodo)</a></li>
+            <li><a href="#ghost">Event Organizing WebApp - Evena</a></li>
+            <li><a href="#pintos">PintOS</a></li>
+            <li><a href="#pintos">WACC compiler</a></li>
+            <li><a href="#arm11">ARM 11 project</a></li>
+            <li><a href="#arm11">EESW</a></li>
           </ul>
           <p class="menu-label">
             Others
@@ -57,7 +67,7 @@
       </div>
 
       <div class="column">
-        <h1 class="title"> Education 🏫</h1>
+        <h1 class="title"> Education 🎓</h1>
         <section class="section is-small">
           <div class="columns">
             <div class="column">
@@ -182,7 +192,7 @@
         </section>
 
         <hr>
-        <h1 class="title">Awards and projects🏆</h1>
+        <h1 class="title">Awards in Hackathons🏆</h1>
 
         <div class="box">
           <div class="columns">
@@ -212,6 +222,58 @@
               <h2 class="subtitle"><a href="https://ichack.org/">ICHACK 18</a></h2>
               <h4>DoCSoc(Organiser) Choice Award</h4>
               <h6>January 2018</h6>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <h1 class="title">Projects👨🏻‍💻 </h1>
+
+        <div class="box">
+          <div class="columns">
+            <a name="ghost"></a>
+            <div class="column">
+              <h2 class="subtitle"><a href="">Ghost Chess (with Theodo)</a></h2>
+              <h4><b>October 2018</b></h4>
+              <h7>Using a mechanical arm, an electro-magnet, and an Arduino, we were able to build a first prototype of an API-controlled chess board. The goal of this project is to build an iOS, Android and web app that will allow users to control the chess board.
+                We use <b>React-Native</b> as the front-end, <b>NodeJS</b> for the server</h7>
+            </div>
+            <div class="column">
+              <h2 class="subtitle"><a href="">Event Organizing WebApp - Evena</a>
+              </h2>
+              <h4><b>May 2018</b></h4>
+              <h7>Evena is a personal event organiser aimed at connecting the student community. Unlike other Event organising platforms for business use, we focus on small groups and emphasis on decreasing the workload of the organisers.
+                This web application is built with <b>Java</b>, <b>JavaScript</b> and using <b>Spring MVC</b> as the framework.</h7>
+            </div>
+          </div>
+          <div class="columns">
+            <a name="pintos"></a>
+            <div class="column">
+              <h2 class="subtitle"><a href="">PintOS</a></h2>
+              <h4><b>January 2018</b></h4>
+              <h7>We designed and implemented the core parts for a operating system framework for the 80x86 architecture.
+                It supports kernel threads, loading and running user programs, and a file system. The project is written in <b>C</b>.</h7>
+            </div>
+            <div class="column">
+              <h2 class="subtitle"><a href="">WACC compiler</a></h2>
+              <h4><b>October 2017</b></h4>
+              <h7>We designed and built a compiler in <b>java</b> for the WACC language from scratch.</h7>
+            </div>
+          </div>
+          <div class="columns">
+            <a name="arm11"></a>
+            <div class="column">
+              <h2 class="subtitle"><a href="">ARM 11 project</a></h2>
+              <h4><b>May 2017</b></h4>
+              <h7>We build an ARM11 Architecture emulator and assembler, which is part of the C programming course.
+                It is also used as a synchronous audio and visual demonstration on the Raspberry Pi. We build a game called "Simon Says" using Raspberry Pi.</h7>
+            </div>
+            <div class="column">
+              <h2 class="subtitle"><a href="">The Engineering Education Scheme Wales</a></h2>
+              <h4><b>August 2015</b></h4>
+              <h7>Design a new product with 3D printer that solves real industrial problems with team members and present it in The Big Bang Fair
+
+                We designed a quadcopter which can monitor the partial discharge of power cables in order to detect an upcoming failure. I was responsible for the mechanical and electrical design.
+                I built a 3D model of the drone using SketchUp which was later printed using a 3D printer.</h7>
             </div>
           </div>
         </div>
